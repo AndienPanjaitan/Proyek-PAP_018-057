@@ -1,0 +1,346 @@
+.image-1-icon6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 62px;
+  height: 66px;
+  object-fit: cover;
+}
+.martuhan-marroha-marbisuk6 {
+  margin: 0;
+  font-size: var(--font-size-2xs);
+}
+.institut-teknologi-del-container5 {
+  position: absolute;
+  top: 0;
+  left: 75px;
+  line-height: 162%;
+}
+.logo10 {
+  position: absolute;
+  top: 0.4px;
+  left: 0;
+  width: 309px;
+  height: 66px;
+}
+.alamat3,
+.logo9 {
+  position: absolute;
+  width: 332px;
+}
+.logo9 {
+  top: 64.6px;
+  left: 137px;
+  height: 66px;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-lato);
+}
+.alamat3 {
+  top: 76.6px;
+  left: 557px;
+  line-height: 162%;
+  display: inline-block;
+}
+.faq3,
+.giving-program3,
+.lokasi3 {
+  position: relative;
+  line-height: 162%;
+  display: inline-block;
+  width: 127px;
+  flex-shrink: 0;
+}
+.faq3,
+.lokasi3 {
+  width: 53px;
+}
+.faq3 {
+  width: 34px;
+}
+.info-tambahan3 {
+  position: absolute;
+  top: 334.6px;
+  left: 1069px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.ikon-icon3 {
+  position: absolute;
+  height: 6.05%;
+  width: 6.94%;
+  top: 87.47%;
+  right: 83.54%;
+  bottom: 6.47%;
+  left: 9.51%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.akses-cepat3 {
+  position: relative;
+  text-decoration: underline;
+  line-height: 162%;
+  font-weight: 800;
+  display: inline-block;
+  width: 332px;
+}
+.menu-footer3 {
+  position: absolute;
+  top: 76.6px;
+  left: 1103px;
+  width: 196px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.footer3 {
+  position: absolute;
+  top: 772px;
+  left: calc(50% - 720px);
+  background-color: var(--color-cornflowerblue);
+  width: 1440px;
+  height: 380px;
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}
+.fasiltas,
+.lorem-ipsum-dolor-container1 {
+  position: absolute;
+  top: 117px;
+  left: 8px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  text-align: center;
+  width: 1439px;
+}
+.lorem-ipsum-dolor-container1 {
+  top: 199px;
+  left: 185px;
+  font-size: var(--font-size-xs);
+  text-align: justify;
+  width: 1100px;
+  height: 95px;
+}
+.background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-whitesmoke);
+  width: 1440px;
+  height: 441px;
+}
+.image-3-icon {
+  position: absolute;
+  top: 84px;
+  left: 180px;
+  width: 540px;
+  height: 274px;
+  object-fit: cover;
+}
+.laboratorium-komputer {
+  margin: 0;
+}
+.laboratorium-komputer-dan-container {
+  position: absolute;
+  top: 1px;
+  left: 800px;
+  font-size: var(--font-size-15xl);
+  display: inline-block;
+  color: var(--color-darkslategray-200);
+  white-space: pre-wrap;
+  width: 442px;
+  height: 101px;
+}
+.fasilitas-content-child {
+  position: absolute;
+  top: 38px;
+  left: 168px;
+  background-color: #0c3f5f;
+  width: 167px;
+  height: 6px;
+}
+.fasilitas-content-item {
+  position: absolute;
+  top: 43.5px;
+  left: 167.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1132px;
+  height: 1px;
+  opacity: 0.5;
+}
+.definisi-laboratorium-komputas {
+  position: absolute;
+  top: 202px;
+  left: 796px;
+  display: inline-block;
+  width: 446px;
+}
+.hiburan-dan-olahraga,
+.klinik {
+  position: absolute;
+  top: 16px;
+  left: 1242px;
+}
+.hiburan-dan-olahraga {
+  left: 1028px;
+}
+.kantin,
+.tempat-berkumpul-dan {
+  position: absolute;
+  top: 16px;
+  left: 760px;
+}
+.kantin {
+  left: 643px;
+}
+.laboratorium-dan-kelas,
+.tempat-tinggal-akademis {
+  position: absolute;
+  top: 16px;
+  left: 404px;
+}
+.laboratorium-dan-kelas {
+  left: 180px;
+}
+.fasilitas-content {
+  position: absolute;
+  top: 331px;
+  left: 0;
+  width: 1440px;
+  height: 441px;
+  text-align: justify;
+  font-size: var(--font-size-xs);
+}
+.search-icon6,
+.vector-icon10 {
+  position: absolute;
+  height: 3.06%;
+  width: 1.46%;
+  top: 44.2%;
+  right: 9.65%;
+  bottom: 52.74%;
+  left: 88.89%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.search-icon6 {
+  height: 32.13%;
+  width: 2.08%;
+  top: 28.75%;
+  right: 3.26%;
+  bottom: 39.12%;
+  left: 94.65%;
+}
+.vector-icon11 {
+  position: absolute;
+  top: 34px;
+  left: 1190px;
+  width: 10.5px;
+  height: 6.2px;
+}
+.image-1-icon7,
+.vector-icon12,
+.vector-icon13 {
+  position: absolute;
+  top: 33px;
+  left: 1080px;
+  width: 10.5px;
+  height: 6.2px;
+}
+.image-1-icon7,
+.vector-icon13 {
+  left: 963px;
+}
+.image-1-icon7 {
+  top: 0;
+  left: 0;
+  width: 44px;
+  height: 48px;
+  object-fit: cover;
+}
+.martuhan-marroha-marbisuk7 {
+  margin: 0;
+  font-size: var(--font-size-5xs);
+}
+.institut-teknologi-del-container6 {
+  position: absolute;
+  top: 6px;
+  left: 53px;
+  line-height: 162%;
+  display: inline-block;
+  width: 151px;
+  height: 31px;
+}
+.logo11 {
+  position: absolute;
+  top: 14px;
+  left: 22px;
+  width: 204px;
+  height: 48px;
+  font-size: var(--font-size-mini);
+}
+.home4,
+.lembaga3,
+.pengumuman7,
+.program-pendidikan5 {
+  position: absolute;
+  top: 24px;
+  left: 555px;
+  line-height: 162%;
+  cursor: pointer;
+}
+.lembaga3,
+.pengumuman7,
+.program-pendidikan5 {
+  top: 23px;
+  left: 630px;
+}
+.lembaga3,
+.program-pendidikan5 {
+  top: 24px;
+  left: 777px;
+}
+.lembaga3 {
+  top: 23px;
+  left: 1003px;
+}
+.fasilitas4,
+.pendaftaran3 {
+  position: absolute;
+  top: 24px;
+  line-height: 162%;
+}
+.fasilitas4 {
+  left: 1113px;
+  cursor: pointer;
+}
+.pendaftaran3 {
+  left: 1222px;
+}
+.header3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-cornflowerblue);
+  width: 1440px;
+  height: 80px;
+  color: var(--color-white);
+  font-family: var(--font-lato);
+}
+.fasilitas3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1152px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

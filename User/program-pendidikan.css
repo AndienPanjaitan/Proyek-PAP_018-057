@@ -1,0 +1,336 @@
+.image-1-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 62px;
+  height: 66px;
+  object-fit: cover;
+}
+.martuhan-marroha-marbisuk2 {
+  margin: 0;
+  font-size: var(--font-size-2xs);
+}
+.institut-teknologi-del-container1 {
+  position: absolute;
+  top: 0;
+  left: 75px;
+  line-height: 162%;
+}
+.logo4 {
+  position: absolute;
+  top: 0.4px;
+  left: 0;
+  width: 309px;
+  height: 66px;
+}
+.alamat1,
+.logo3 {
+  position: absolute;
+  width: 332px;
+}
+.logo3 {
+  top: 64.6px;
+  left: 137px;
+  height: 66px;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-lato);
+}
+.alamat1 {
+  top: 76.6px;
+  left: 557px;
+  line-height: 162%;
+  display: inline-block;
+}
+.faq1,
+.giving-program1,
+.lokasi1 {
+  position: relative;
+  line-height: 162%;
+  display: inline-block;
+  width: 127px;
+  flex-shrink: 0;
+}
+.faq1,
+.lokasi1 {
+  width: 53px;
+}
+.faq1 {
+  width: 34px;
+}
+.info-tambahan1 {
+  position: absolute;
+  top: 334.6px;
+  left: 1069px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.ikon-icon1 {
+  position: absolute;
+  height: 6.05%;
+  width: 6.94%;
+  top: 87.47%;
+  right: 83.54%;
+  bottom: 6.47%;
+  left: 9.51%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.akses-cepat1 {
+  position: relative;
+  text-decoration: underline;
+  line-height: 162%;
+  font-weight: 800;
+  display: inline-block;
+  width: 332px;
+}
+.menu-footer1 {
+  position: absolute;
+  top: 76.6px;
+  left: 1103px;
+  width: 196px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.footer1 {
+  position: absolute;
+  top: 900px;
+  left: calc(50% - 720px);
+  background-color: var(--color-cornflowerblue);
+  width: 1440px;
+  height: 380px;
+  text-align: left;
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}
+.fakultas,
+.program-pendidikan2 {
+  position: absolute;
+  top: 117px;
+  left: 1px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  width: 1439px;
+}
+.fakultas {
+  top: 527px;
+}
+.group-child,
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 291px;
+}
+.group-child {
+  background-color: var(--color-whitesmoke);
+  width: 1131px;
+}
+.group-item {
+  width: 514px;
+  object-fit: cover;
+}
+.apa-itu-program {
+  position: absolute;
+  top: 30px;
+  left: 567px;
+}
+.lorem-ipsum-dolor {
+  margin: 0;
+}
+.lorem-ipsum-dolor-container {
+  position: absolute;
+  top: 96px;
+  left: 567px;
+  font-size: var(--font-size-xs);
+  display: inline-block;
+  width: 515px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 199px;
+  left: 155px;
+  width: 1131px;
+  height: 291px;
+  text-align: justify;
+}
+.fakultas-teknik-elektro {
+  position: absolute;
+  top: 228px;
+  left: 0;
+  display: inline-block;
+  width: 255.9px;
+  height: 25.8px;
+}
+.bioproses-child,
+.fite,
+.fite-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 256px;
+}
+.fite-child {
+  height: 208px;
+  object-fit: cover;
+}
+.bioproses-child,
+.fite {
+  height: 253.8px;
+}
+.bioproses-child {
+  left: 1px;
+  height: 208px;
+  object-fit: cover;
+}
+.all-fakultas,
+.bioproses,
+.industri,
+.vokasi {
+  position: absolute;
+  top: 0;
+  left: 875px;
+  width: 257px;
+  height: 253.8px;
+}
+.all-fakultas,
+.industri,
+.vokasi {
+  left: 583px;
+}
+.all-fakultas,
+.vokasi {
+  left: 292px;
+  width: 256px;
+}
+.all-fakultas {
+  top: 609px;
+  left: 157px;
+  width: 1132px;
+  font-size: var(--font-size-xs);
+}
+.search-icon2 {
+  position: absolute;
+  height: 32.13%;
+  width: 2.08%;
+  top: 28.75%;
+  right: 3.26%;
+  bottom: 39.12%;
+  left: 94.65%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image-1-icon3,
+.vector-icon3,
+.vector-icon4,
+.vector-icon5 {
+  position: absolute;
+  top: 34px;
+  left: 1190px;
+  width: 10.5px;
+  height: 6.2px;
+}
+.image-1-icon3,
+.vector-icon4,
+.vector-icon5 {
+  top: 33px;
+  left: 1080px;
+}
+.image-1-icon3,
+.vector-icon5 {
+  left: 963px;
+}
+.image-1-icon3 {
+  top: 0;
+  left: 0;
+  width: 44px;
+  height: 48px;
+  object-fit: cover;
+}
+.martuhan-marroha-marbisuk3 {
+  margin: 0;
+  font-size: var(--font-size-5xs);
+}
+.institut-teknologi-del-container2 {
+  position: absolute;
+  top: 6px;
+  left: 53px;
+  line-height: 162%;
+  display: inline-block;
+  width: 151px;
+  height: 31px;
+}
+.logo5 {
+  position: absolute;
+  top: 14px;
+  left: 22px;
+  width: 204px;
+  height: 48px;
+  font-size: var(--font-size-mini);
+}
+.home2,
+.lembaga1,
+.pengumuman1,
+.program-pendidikan3 {
+  position: absolute;
+  top: 24px;
+  left: 555px;
+  line-height: 162%;
+  cursor: pointer;
+}
+.lembaga1,
+.pengumuman1,
+.program-pendidikan3 {
+  top: 23px;
+  left: 630px;
+}
+.lembaga1,
+.program-pendidikan3 {
+  top: 24px;
+  left: 777px;
+}
+.lembaga1 {
+  top: 23px;
+  left: 1003px;
+}
+.fasilitas1,
+.pendaftaran1 {
+  position: absolute;
+  top: 24px;
+  line-height: 162%;
+}
+.fasilitas1 {
+  left: 1113px;
+  cursor: pointer;
+}
+.pendaftaran1 {
+  left: 1222px;
+}
+.header1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-cornflowerblue);
+  width: 1440px;
+  height: 80px;
+  text-align: left;
+  color: var(--color-white);
+  font-family: var(--font-lato);
+}
+.program-pendidikan1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1280px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
